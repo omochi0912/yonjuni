@@ -1,0 +1,5 @@
+Credentials cache: API:7060
+        Principal: khayashi@42TOKYO.JP
+
+  Issued                Expires               Principal
+Sep 27 18:34:00 2021  Sep 28 04:34:00 2021  krbtgt/42TOKYO.JP@42TOKYO.JP
